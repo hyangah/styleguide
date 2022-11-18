@@ -17,9 +17,9 @@ This project holds the [C++ Style Guide][cpp], [C# Style Guide][csharp],
 [Java Style Guide][java], [Python Style Guide][py], [R Style Guide][r],
 [Shell Style Guide][sh], [HTML/CSS Style Guide][htmlcss],
 [JavaScript Style Guide][js], [TypeScript Style Guide][ts], [AngularJS Style Guide][angular],
-[Common Lisp Style Guide][cl], and [Vimscript Style Guide][vim]. This project
-also contains [cpplint][cpplint], a tool to assist with style guide compliance,
-and [google-c-style.el][emacs], an Emacs settings file for Google style.
+[Common Lisp Style Guide][cl], [Vimscript Style Guide][vim], and [Go Style Guide][go].
+This project also contains [cpplint][cpplint], a tool to assist with style guide
+compliance, and [google-c-style.el][emacs], an Emacs settings file for Google style.
 
 If your project requires that you create a new XML document format, the [XML
 Document Format Style Guide][xml] may be helpful. In addition to actual style
@@ -31,7 +31,7 @@ which encourages you to share these documents.
 See [https://creativecommons.org/licenses/by/3.0/][ccl] for more details.
 
 The following Google style guides live outside of this project:
-[Go Code Review Comments][go] and [Effective Dart][dart].
+[Effective Dart][dart].
 
 
 ## Contributing
@@ -65,7 +65,7 @@ but we are primarily optimizing for Google's internal needs.
 [cpplint]: https://github.com/google/styleguide/tree/gh-pages/cpplint
 [emacs]: https://raw.githubusercontent.com/google/styleguide/gh-pages/google-c-style.el
 [xml]: https://google.github.io/styleguide/xmlstyle.html
-[go]: https://golang.org/wiki/CodeReviewComments
+[go]: https://google.github.io/styleguide/go/
 [dart]: https://www.dartlang.org/guides/language/effective-dart
 [ccl]: https://creativecommons.org/licenses/by/3.0/
 
